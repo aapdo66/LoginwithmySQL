@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Login with mySQL</string>
+    <string name="login">LOGIN</string>
+</resources>
